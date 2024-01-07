@@ -10,7 +10,7 @@ ENDC
 	db 26, SPEAROW
 	db 38, FEAROW
 	db 38, DITTO
-	db 38, FEAROW
+	db 26, SANDSHREW
 IF DEF(_RED)
 	db 41, ARBOK
 ENDC
@@ -18,7 +18,7 @@ IF DEF(_BLUE)
 	db 41, SANDSLASH
 ENDC
 	db 43, DITTO
-	db 41, FEAROW
+	db 41, SANDSLASH
 	db 43, FEAROW
 	end_grass_wildmons
 

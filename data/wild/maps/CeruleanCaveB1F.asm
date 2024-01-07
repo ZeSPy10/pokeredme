@@ -13,7 +13,7 @@ IF DEF(_BLUE)
 	db 57, SANDSLASH
 ENDC
 	db 65, DITTO
-	db 63, DITTO
+	db 63, SANDSLASH
 	db 67, DITTO
 	end_grass_wildmons
 

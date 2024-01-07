@@ -3,9 +3,9 @@ PokemonMansion3FWildMons:
 IF DEF(_RED)
 	db 31, KOFFING
 	db 33, GROWLITHE
-	db 35, KOFFING
+	db 35, MAGMAR
 	db 32, PONYTA
-	db 34, PONYTA
+	db 34, VULPIX
 	db 40, WEEZING
 	db 34, GRIMER
 	db 38, WEEZING
